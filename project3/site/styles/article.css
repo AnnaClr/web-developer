@@ -1,0 +1,29 @@
+@import url(style.css);
+
+:root {
+    font-size: 6.25%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    font-size: 24rem;
+    color: rgb(113, 86, 138);
+}
+
+/* table {
+    margin-left: 380rem;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 24rem;
+    justify-content: center;
+}
+
+td,th {
+    border: solid
+    1px black;
+} */
