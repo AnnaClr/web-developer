@@ -12,6 +12,8 @@ let sum = firstNumber + secondNumber
 
 alert(`A soma de ${firstNumber} + ${secondNumber} é ${sum}`)
 
+console.log("Hello, World!")
+
 
 // console.log(typeof firstNumber)
 
