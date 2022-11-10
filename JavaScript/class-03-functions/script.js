@@ -32,15 +32,30 @@
 
 // >>> Arrow <<<
 
-let sum = (num1, num2) => num1 + num2
-console.log(sum(2, 3))
+// let sum = (num1, num2) => num1 + num2
+// console.log(sum(2, 3))
 
 //-------------------------------
 
 // >>> Constructor <<<
 
+function Car(brandName, motorPower) {
+    this.brand = brandName
+    this.motor = motorPower 
+    this.walk = () => {
+        console.log("Running...")
+    }
+}
+
+const uno = new Car("Fialt", "1.4")
+
+console.log(uno.brand)
+console.log(uno.motor)
+console.log(uno.walk())
 
 
+// String()
+// Car()
 
 
 
