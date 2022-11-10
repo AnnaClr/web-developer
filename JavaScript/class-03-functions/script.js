@@ -28,11 +28,20 @@
 
 // console.log(sum(2, 3))
 
+//-------------------------------
 
 // >>> Arrow <<<
 
 let sum = (num1, num2) => num1 + num2
 console.log(sum(2, 3))
+
+//-------------------------------
+
+// >>> Constructor <<<
+
+
+
+
 
 
 
