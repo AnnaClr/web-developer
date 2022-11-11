@@ -34,9 +34,9 @@ for (const paciente of listPacientes) {
 
 console.log(listPacientes)
 
-// document.write(`O IMC de ${listPacientes[0].name} é ${cIMC[listPacientes[0]]} <br>`)
-// document.write(`O IMC de ${listPacientes[1].name} é ${cIMC[listPacientes[1]]} <br>`)
-// document.write(`O IMC de ${listPacientes[2].name} é ${cIMC[listPacientes[2]]} <br>`)
+// document.write(`O IMC de ${listPacientes[0].name} é ${cIMC(listPacientes[0])} <br>`)
+// document.write(`O IMC de ${listPacientes[1].name} é ${cIMC(listPacientes[1])} <br>`)
+// document.write(`O IMC de ${listPacientes[2].name} é ${cIMC(listPacientes[2])} <br>`)
 
 
 
