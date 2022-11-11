@@ -39,19 +39,19 @@
 
 // >>> Constructor <<<
 
-function Car(brandName, motorPower) {
-    this.brand = brandName
-    this.motor = motorPower 
-    this.walk = () => {
-        console.log("Running...")
-    }
-}
+// function Car(brandName, motorPower) {
+//     this.brand = brandName
+//     this.motor = motorPower 
+//     this.walk = () => {
+//         console.log("Running...")
+//     }
+// }
 
-const uno = new Car("Fialt", "1.4")
+// const uno = new Car("Fialt", "1.4")
 
-console.log(uno.brand)
-console.log(uno.motor)
-console.log(uno.walk())
+// console.log(uno.brand)
+// console.log(uno.motor)
+// console.log(uno.walk())
 
 
 // String()
