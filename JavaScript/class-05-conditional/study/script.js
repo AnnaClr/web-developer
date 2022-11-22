@@ -33,24 +33,6 @@
 // } else {
 //     console.log("Não Pode votar!")
 
-
-// if (weekDay == 1) {
-//     console.log("Domingo")
-// } else {
-//     if (weekDay == 2) {
-//         console.log("Segunda")
-//     } else {
-//         if (weekDay == 3) {
-//             console.log("Terça")
-//         }
-//     }
-// }
-
-//     console.log("Pode votar!")
-// } else {
-//     console.log("Não pode votar!")
-// }
-
 let weekDay = 1 // 1 - 7
 let day
 
