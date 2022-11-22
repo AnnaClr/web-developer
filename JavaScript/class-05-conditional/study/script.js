@@ -33,12 +33,16 @@
 // } else {
 //     console.log("Não Pode votar!")
 
-//     switch (key) {
-//         case value:
 
-//         break;
-
-//         case value:
+// if (weekDay == 1) {
+//     console.log("Domingo")
+// } else {
+//     if (weekDay == 2) {
+//         console.log("Segunda")
+//     } else {
+//         if (weekDay == 3) {
+//             console.log("Terça")
+//         }
 //     }
 // }
 
@@ -46,6 +50,39 @@
 // } else {
 //     console.log("Não pode votar!")
 // }
+
+let weekDay = 1 // 1 - 7
+let day
+
+    switch (weekDay) {
+        case 1:
+            day = "Domingo"
+        break;
+        case 2:
+            day = "Segunda"
+        break;
+        case 3:
+            day = "Terça"
+        break;
+        case 4: 
+             day = "Quarta"
+        break;
+        case 5:
+            day = "Quinta"
+        break;
+        case 6:
+             day = "Sexta"
+        break;
+        case 7: 
+              day = "Sábado"
+
+        default:
+            // console.log("Dia não encontrado!")
+            day = "Dia não encontrado!"
+        break;
+    }
+    
+    console.log(day)
 
 
 
