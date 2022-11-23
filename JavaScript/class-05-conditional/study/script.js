@@ -75,6 +75,8 @@
 //     myFunction
 // } catch (error) {
 //     console.log(`${error}`)
+// } finally {
+//     console.log("Sempre será executado!")
 // }
 
 // document.write("Rodando aplicação...")
