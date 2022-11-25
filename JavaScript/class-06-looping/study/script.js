@@ -43,7 +43,32 @@
 //     }  
 // }
 
+
 // console.log("Minha aplicação")
+
+
+// const array = [1, "A", () => "Teste"]
+// for (let count = 0; count < array.length; count++) {
+//     const element = array[count];
+//     console.log(element)
+    
+// }
+
+
+// let resp = false
+// do {
+
+// }
+
+
+// const array = [1, 2, 4, 7]
+// for (const valor of array) {
+//     console.log(valor)
+// }
+
+// Forof: Captura o valor do array (Anotação)
+
+
 
 // >>>> ANOTAÇÕES <<<<
 
@@ -57,6 +82,10 @@
 
 // count++ -> Caution, two increments!
 
-// for (let index = 0; index < array.length; index++) {
-//     const element = array[index];  
+// for (let count = 0; count < array.length; count++) {
+//     const element = array[count];  
 // }
+
+// iterator: looping (repetição)
+
+
